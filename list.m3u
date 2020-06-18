@@ -1,0 +1,17 @@
+#EXTM3U
+#PLAYLIST:iptvcat.com
+
+#EXTINF:0 tvg-country="LB" tvg-logo="https://i.imgur.com/dmDzNQO.png" group-title="Undefined",mtv
+http://178.132.3.162:88/MTV_Lebanon/video.m3u8?token=test&checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="LB" tvg-logo="https://i.imgur.com/dmDzNQO.png" group-title="Undefined",Al Manar
+https://manar.live/x.smil/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-id="" tvg-name="AR:Al Mayadeen" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/80/Al-mayadeen_logo.jpg/220px-Al-mayadeen_logo.jpg" group-title="NEWS HD",Al Mayadeen
+http://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/chunklist_b900000_t64NDgwcA==.m3u8?v=
+
+#EXTINF:-1 tvg-id="" tvg-name="AR:AL Arabiya HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrsY9OTadlvifp8yfoIWK0vQW7drz_9GJy9TQxEk98Y1NWdyEX" group-title="NEWS HD",Al Arabiya
+https://av.alarabiya.net/alarabiapublish/alarabiya_720p/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AR:RT Arabic (Russia Today)" tvg-logo="https://www.theweek.co.uk/sites/theweek/files/styles/16x8_465/public/8/54/140721-russia-today-logo_0.jpg" group-title="NEWS HD",RT Arabic
+https://rt-arab.secure.footprint.net/1104_2500Kb.m3u8
