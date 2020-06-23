@@ -1,11 +1,17 @@
 #EXTM3U
 #PLAYLIST:iptvcat.com
 
-#EXTINF:0 tvg-id="ext",LBC
-http://vlc.news:9000/live/sharpstar_955951/MG4z24H0/82513.m3u8
+#EXTINF:0 tvg-id="ext",LBC HD
+http://vlc.news:9000/live/sharpstar_955951/MG4z24H0/82513.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="ext",Dunno HD
+http://vlc.news:9000/live/sharpstar_955951/MG4z24H0/82512.m3u8?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-id="ext",MTV
 http://vlc.news:9000/live/sharpstar_955951/MG4z24H0/82511.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="ext",Future TV
+http://178.132.3.162:88/Future_TV/video.m3u8?token=test&checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/dmDzNQO.png" group-title="",Al Manar
 https://manar.live/x.smil/tracks-v1a1/mono.m3u8
